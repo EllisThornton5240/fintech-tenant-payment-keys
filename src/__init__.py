@@ -1,0 +1,1 @@
+"""Tenant payment access service."""
